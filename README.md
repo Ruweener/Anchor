@@ -1,6 +1,6 @@
 # Anchor ⚓️
 **AI-Powered Focus Coach Chrome Extension**
-
+### Check out the [DevPost Page!](https://devpost.com/software/anchor-ewiqn2?_gl=1*1wzqdtd*_gcl_au*MzU1MzY1MTQuMTc5MjAyMDcxMQ..*_ga*NDc3NTc5NjkyLjE3OTIwMjA3MTE.*_ga_0YHJK3Y10M*czE3OTIwMjA3MTEkbzEkZzEkdDE3OTIwMjA4MjUkajgkbDAkaDA.)
 Anchor is a proactive AI agent designed for individuals impacted by Attention-Deficit/Hyperactivity Disorder (ADHD). No focus? No shame. Using a mix of screen as well as physical detection, we track your attention spans in a non-intrusive manner, and gently steer you back on tack, anchoring your mind on your actual needs.
 
 ## Features
